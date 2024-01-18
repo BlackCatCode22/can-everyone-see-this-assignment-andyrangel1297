@@ -1,0 +1,38 @@
+1.1 - Statements and the structure of a program
+
+vocabulary
+statement - a type of instruction that causes the program to perform some action
+function - a collection of statements that get executed sequentially (top to bottom)
+syntax - rules that govern how sentences are constructed in a language
+syntax error - a violation of basic syntax
+
+- statements are common type of instruction in a C++ program
+    - they are the smallest unit of computation in C++
+    - most statements end in a semicolon
+
+- C++ is a high-level language
+- a single statement may compile into many machine language instructions
+
+- statements are usually grouped into functions
+- when writing programs, we create functions and mix and match statements
+- functions usually written to do a specific action
+    - ex. calculateGrade or printEmployee
+
+- programs usually terminate after last statement in main function has been executed (some 
+end early when aborted)
+
+- # symbols are used in beginning to indicate a preprocessor directive
+- #include <iostream> = program would like to use contents of iostream library (C++ standard library)
+    - needed for reading and writing from and to the console
+    - if excluded, std::cout would result on a compiler error not knowing what is meant
+
+- blank lines are used to make programs readable and are ignored by compiler
+
+- int main() - tells compiler we'll write/define a function whose name is main
+    - every C++ program must have a main function or it will fail to link
+
+- {} or curly braces signal the function body
+
+- std::cout stands for character output and << operator allows us to display info on console
+
+- return 0 indicates to OS that program ran successfully

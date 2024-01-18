@@ -1,6 +1,8 @@
 // C++ program to display "Hello World"
 
-// Header file for input/output functions (cout and cin)
+// Header file for reading/writing to the console
+// also known as "standard library"
+// # is a preprocessor directive
 #include <iostream>
 
 using namespace std;

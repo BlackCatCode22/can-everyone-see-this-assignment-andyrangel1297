@@ -1,0 +1,31 @@
+1.2 - Comments
+
+vocabulary
+comment - a programmer-readable note that is inserted directly into the source code of the program
+commenting out - converting one or more lines of code into a comment
+
+- // begins a C++ single-line comment
+- it tells compiler to ignore everything from // symbol to end of line
+
+- it's typically used to make quick comment about single line of code
+- if lines are fairly short, comments can be aligned using tab
+- long lines usually have single-line comments placed on top
+
+- /* */ pair denotes a C-style multi-line comment
+- everything in between symbols is ignored
+
+Three Things Comments are Typically Used for
+    1) comments are used to describe what the library, program, or function does and are typically
+    placed at the top
+
+    2) comments are used within a library, program, or function to describe how the code is going to
+    accomplish its goal
+
+    3) comments are used to describe why the code is doing something
+        - comments are great way to remind yourself or others the reason you made one decision instead
+        of another
+    
+- commenting out code is a convenient way to temporarily exclude parts of code from being compiled in
+program
+
+
