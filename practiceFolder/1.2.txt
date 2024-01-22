@@ -28,4 +28,5 @@ Three Things Comments are Typically Used for
 - commenting out code is a convenient way to temporarily exclude parts of code from being compiled in
 program
 
+- this helps if a piece of code won't compile and you need to run program
 

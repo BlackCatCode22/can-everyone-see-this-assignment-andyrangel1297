@@ -1,0 +1,13 @@
+1.5 - Introduction to iostream: cout, cin, and endl
+
+vocabulary
+    input/output library - part of C++ standard library that deals with basic input & output
+    std::cout - allows us to send data to the console to be printed as text
+    insertation operator - "<<"
+    std::endl - prints a newline character to the console (cursor goes to start of next line)'
+    buffer - a region of memory set asside to collect requests
+    "buffer is flushed" - all the data collected in the buffer is transferred to destination
+    \n - prints newline character to the console without requesting flush (better performance)
+    std::cin - reads input from the keyboard to be stored in a variable
+    extraction operator - ">>"
+    

@@ -1,0 +1,16 @@
+1.3 - Introduction to Objects and Variables
+
+vocabulary
+    data - any information that can be moved, processed, or stored by a computer
+    value - a single piece of data
+    Random Access Memory (RAM) - main memory in acomputer used to run programs
+    object - a region of storage (usually memory) that can store a value and has other associated
+    properties
+    variable - an object with a name
+    definition - a special kind of declaration statement used to create a variable
+    runtime - when the program is running
+    instantiation - the object will be created and assigned a memory address
+    instance - an instantiated object
+    data type - tells computer what kind or type of value the variable will store
+    compile time - when the program is compiled
+    

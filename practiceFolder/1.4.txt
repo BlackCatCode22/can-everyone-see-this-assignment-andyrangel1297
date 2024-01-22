@@ -1,0 +1,19 @@
+1.4 - Varable Assignment and Initialization
+
+vocabulary 
+    assignment - the process in which a varable has been given a value
+    assignment operator - "="
+    copy assignment - when value on right-hand side of the "=" is given to variable of left-hand side
+    initialization - when a variable is defined and assigned value at the same time
+    initializer - value used to initialize a variable 
+    default initialization - when no initialization value is provided (usually an indeterminate value)
+    copy initialization - when an initializer is provided after an equals sign 
+        (ex. int width = 5;)
+    direct initialization - when an initializer is provided inside a parenthesis
+        (ex. int width (5))
+    list initialization - modern way to initialize objects in C++ by using curly braces
+        also known as uniform initialization and brace intitialization
+        (ex. int width {5};     or      ex. int height = {6};       or      ex. int depth {};)
+    value initialization - when a variable is list initialized using empty braces
+        - in most cases, initialized variable to zero called zero initialization
+    
